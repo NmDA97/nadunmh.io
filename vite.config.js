@@ -9,5 +9,6 @@ export default defineConfig({
     // tailwindcssMotion
 
   ],
+  base: "/nadunmh.io/",
   
 })
